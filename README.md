@@ -1,3 +1,21 @@
+# 🏥 Medical
+
+A responsive and modern component to showcase doctors, medical staff, or healthcare services in a clean card-based UI with a “View More” button.
+
+## ✨ Features
+
+- 👨‍⚕️ Stylish and informative medical profile cards  
+- 📱 Fully responsive design for all screen sizes  
+- 🖱️ Interactive and accessible layout  
+- 🔁 Reusable and clean code structure  
+
+## 🌍 Use Case Ideas
+
+- Hospital or clinic websites  
+- Health tech startup platforms  
+- Medical dashboard user interfaces  
+- Doctor or healthcare provider directories
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
